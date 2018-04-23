@@ -1,0 +1,3 @@
+[submodule "docker-service-postgres"]
+	path = docker-service-postgres
+	url = git@github.com:dinakarreddy/docker-service-postgres.git
