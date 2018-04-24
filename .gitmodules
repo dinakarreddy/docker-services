@@ -1,3 +1,6 @@
 [submodule "docker-service-postgres"]
 	path = docker-service-postgres
 	url = git@github.com:dinakarreddy/docker-service-postgres.git
+[submodule "docker-service-kafka"]
+	path = docker-service-kafka
+	url = git@github.com:dinakarreddy/docker-service-kafka.git
