@@ -4,3 +4,6 @@
 [submodule "docker-service-kafka"]
 	path = docker-service-kafka
 	url = git@github.com:dinakarreddy/docker-service-kafka.git
+[submodule "docker-service-elk"]
+	path = docker-service-elk
+	url = git@github.com:dinakarreddy/docker-service-elk.git
