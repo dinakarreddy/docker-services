@@ -7,3 +7,6 @@
 [submodule "docker-service-elk"]
 	path = docker-service-elk
 	url = git@github.com:dinakarreddy/docker-service-elk.git
+[submodule "docker-service-metabase"]
+	path = docker-service-metabase
+	url = git@github.com:dinakarreddy/docker-service-metabase.git
